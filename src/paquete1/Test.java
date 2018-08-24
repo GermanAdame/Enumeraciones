@@ -30,11 +30,7 @@ public class Test {
 			System.out.println(ope.name());
 		}
 		
-		Operaciones ope[] = Operaciones.values();
-		for(int i=0; i<ope.length;i++){
-			System.out.println(ope[i].name());
-			
-		}
+		
 	}
 
 }
